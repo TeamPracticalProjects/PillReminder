@@ -1,5 +1,6 @@
 # PillReminder
 ##What is the Pill Reminder?
+####A collaborative project by [Team Practical Projects](https://github.com/TeamPracticalProjects) 
 
 As a person ages, we all know, it becomes more difficult to remember to take your pills. At some point a person is capable of living independently, but may not remember the current day of the week, or even what time of day. This can lead to a person taking more pills than they should, or to skipping a set of pills. The Pill Reminder is meant to be used by a person in this situation.
 
