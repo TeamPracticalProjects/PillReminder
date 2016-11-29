@@ -19,6 +19,8 @@ The Pill Reminder is a project that came about through a conversation at a Baby 
 
 Bob and Jim agreed to make the project and release the plans as an open source project freely licensed for non-commercial use. As a user of these open source plans you make make one, or several, for you own use but you cannot make them to sell. If you modify the plans or kits in some way you are obligated to publish your modifications and to also license your modified plans under the same terms. Your modified plans must contain attribution back to Bob Glicksman and Jim Schrempp.
 
+Since we built this project, there have been a number of sophisticated smart phone apps released to help with medication compliance. They are not suitable for someone who doesn't actively use a smart phone. Some of them have surprisingly good features. Jim did some research and wrote an article on the criteria he used and ends with a recommendation of [the best pill reminder app](https://www.techenhancedlife.com/citizen-research/best-pill-reminder-app-explorer-choice).
+
 
 We hope you enjoy the project!  
 Jim Schrempp and Bob Glicksman  
