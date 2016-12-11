@@ -28,3 +28,5 @@ San Francisco Bay Area
 February 2014
 
 Here's a [video of an early version](https://www.youtube.com/watch?v=8NOZzQJS1Nk) of the Pill Reminder.
+
+Tags: pill reminder, drug reminder, prescription reminder, free, open source
